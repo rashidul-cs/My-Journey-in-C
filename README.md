@@ -30,27 +30,3 @@
 | **Chapter 08** | `Strings` & Buffer Handling | Transitioned to secure data streaming and custom manipulations. |
 | **Chapter 09** | `Structures` Architecture | Handled heterogeneous datatypes and arrow operator (`->`) usage. |
 | **Chapter 10** | `Dynamic_Memory_Allocation` | Managed runtime heap adjustments using `malloc` and `free()`. |
-
----
-
-## ⚙️ Environment & Specifications
-
-* **Compiler Configuration:** GCC via MinGW
-* **Development Workspace:** Visual Studio Code (VS Code)
-* **Essential Extension:** *Code Runner* (by Jun Han) with configured auto-save execution.
-* **Memory Safety Philosophy:** Explicitly enforcing `free()` allocations to avoid runtime memory leaks.
-
----
-
-## 🎯 Strategic Milestones
-
-- [x] Establish a flawless foundational grasp of structured C programming.
-- [x] Secure memory handling via low-level pointers and array bounds.
-- [x] Transition from standard inputs to secure data streaming (`fgets`).
-- [x] Comprehensive review and preparation for university semester examinations.
-
----
-
-<p align="center">
-  <i>"Every single green box on my contribution graph represents a step forward in my software engineering journey."</i> 🚀
-</p>
