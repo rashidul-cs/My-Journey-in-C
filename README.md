@@ -3,10 +3,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/repo%20size-1.4%20MiB-blue" alt="Repo Size">
   <img src="https://img.shields.io/badge/contributors-1-red" alt="Contributors">
-  <img src="https://img.shields.io/github/watchers/rashidul-cs/My-Journey-in-C?style=flat&label=watchers&color=1f883d" alt="Watchers">
-  <img src="https://img.shields.io/github/last-commit/rashidul-cs/My-Journey-in-C?style=flat&color=9c27b0" alt="Last Commit">
+  <img src="https://img.shields.io/badge/watchers-1-blue" alt="Watchers">
+  <img src="https://img.shields.io/badge/last%20commit-today-brightgreen" alt="Last Commit">
   <img src="https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/GitHub-rashidul--cs-181717?logo=github&logoColor=white" alt="GitHub Profile">
+  <img src="https://img.shields.io/badge/GitHub-rashidul--cs-181717?logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License MIT">
 </p>
 
@@ -16,15 +16,41 @@
 
 ---
 
-## Quick Start Demo
+## 📂 Curriculum & Chapter Sequences
 
-### 💻 Development Workspace Preview
-> *Auto-saving and compiling optimized C binaries inside Visual Studio Code using the Code Runner configuration.*
+| Sequence | Core Topics Implemented | Technical Highlights |
+| :--- | :--- | :--- |
+| **Chapter 01** | `Variables` & Input/Output Basics | Mastered basic `printf`, `scanf`, and basic datatypes. |
+| **Chapter 02** | `Instructions_and_Operators` | Solved operator precedence, typecasting, and evaluations. |
+| **Chapter 03** | `Conditional_Instructions` | Built clean structural branching using `if-else` & `switch`. |
+| **Chapter 04** | `Loop_Control_Instructions` | Implemented efficient `for`, `while`, and `do-while` loops. |
+| **Chapter 05** | `Functions_and_Recursion` | Designed optimized recursive stack systems (e.g., Fibonacci). |
+| **Chapter 06** | `Pointers` & Memory Addresses | Deep dive into pointer arithmetic, addresses, and references. |
+| **Chapter 07** | `Arrays` (1D & 2D Matrices) | Solved multi-dimensional array operations and sum logic. |
+| **Chapter 08** | `Strings` & Buffer Handling | Transitioned to secure data streaming and custom manipulations. |
+| **Chapter 09** | `Structures` Architecture | Handled heterogeneous datatypes and arrow operator (`->`) usage. |
+| **Chapter 10** | `Dynamic_Memory_Allocation` | Managed runtime heap adjustments using `malloc` and `free()`. |
 
-```c
-// Sample structural execution using the arrow operator (->)
-#include <stdio.h>
-int main() {
-    printf("Enforcing memory safety & strict buffer handling.\n");
-    return 0;
-}
+---
+
+## ⚙️ Environment & Specifications
+
+* **Compiler Configuration:** GCC via MinGW
+* **Development Workspace:** Visual Studio Code (VS Code)
+* **Essential Extension:** *Code Runner* (by Jun Han) with configured auto-save execution.
+* **Memory Safety Philosophy:** Explicitly enforcing `free()` allocations to avoid runtime memory leaks.
+
+---
+
+## 🎯 Strategic Milestones
+
+- [x] Establish a flawless foundational grasp of structured C programming.
+- [x] Secure memory handling via low-level pointers and array bounds.
+- [x] Transition from standard inputs to secure data streaming (`fgets`).
+- [x] Comprehensive review and preparation for university semester examinations.
+
+---
+
+<p align="center">
+  <i>"Every single green box on my contribution graph represents a step forward in my software engineering journey."</i> 🚀
+</p>
